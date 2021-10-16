@@ -1,0 +1,1 @@
+# Anki_addon_clipboard_monitoring
